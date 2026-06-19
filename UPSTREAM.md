@@ -14,8 +14,9 @@ can build it without needing `tree-sitter-cli`.
 
 | Field | Value |
 | --- | --- |
-| Last reviewed commit | _unknown (initial vendor predates this file)_ |
-| Latest upstream HEAD as of 2026-05-23 | `0975ef72fc3c47b530309ca93937d7d143523628` |
+| Last reviewed commit | `0975ef72fc3c47b530309ca93937d7d143523628` |
+| Provenance | verified byte-identical to upstream HEAD on 2026-06-19 |
+| Latest upstream HEAD as of 2026-06-19 | `0975ef72fc3c47b530309ca93937d7d143523628` |
 
 When you re-vendor, update **Last reviewed commit** to the exact upstream SHA
 whose `src/parser.c` you copied in, and bump the date.
